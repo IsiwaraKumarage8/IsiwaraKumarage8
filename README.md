@@ -10,7 +10,7 @@
 
 ### 🎓 About Me
 
-- 🎓 **Data Science** undergraduate at ** University of Plymouth **.
+- 🎓 **Data Science** undergraduate at **University of Plymouth**.
 - 💡 Deeply interested in building intelligent systems by combining **AI/ML** with **Full-Stack Web Development**.
 - 🎯 Seeking opportunities in **Data Science**, **Machine Learning Engineering** and **Full-Stack Development**.
 
