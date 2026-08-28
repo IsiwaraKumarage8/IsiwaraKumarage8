@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isiwara Kumarage</h1>
-<h3 align="center">Data Science Undergraduate | AI/ML & Full-Stack Developer</h3>
+<h1 align="center"> Isiwara Kumarage</h1>
+<h3 align="center">Data Science Undergraduate | AI/ML & Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isiwara-didulani-b5304a3a0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,9 +10,9 @@
 
 ### 🎓 About Me
 
-- 🎓 Final-year **Data Science** undergraduate at **NSBM Green University / University of Plymouth**.
+- 🎓 **Data Science** undergraduate at ** University of Plymouth **.
 - 💡 Deeply interested in building intelligent systems by combining **AI/ML** with **Full-Stack Web Development**.
-- 🎯 Seeking opportunities in **Data Science**, **Machine Learning Engineering**, and **Full-Stack Development**.
+- 🎯 Seeking opportunities in **Data Science**, **Machine Learning Engineering** and **Full-Stack Development**.
 
 ---
 
