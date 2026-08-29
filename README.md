@@ -1,44 +1,117 @@
-<h1 align="center"> Isiwara Kumarage</h1>
-<h3 align="center">Data Science Undergraduate | AI/ML & Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isiwara-didulani-b5304a3a0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:isiwarakumarage6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Isiwara%20Kumarage&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20AI%2FML%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+intelligent+systems+with+AI%2FML;Full-Stack+Developer+%7C+React+%26+Next.js;Data+Science+%40+University+of+Plymouth;Open+to+Data+%26+ML+Engineering+Roles&font=Fira+Code&center=true&width=600&height=45&color=EC4899&vCenter=true&size=22&pause=1800"/>
 
-### 🎓 About Me
+<br/>
 
-- 🎓 **Data Science** undergraduate at **University of Plymouth**.
-- 💡 Deeply interested in building intelligent systems by combining **AI/ML** with **Full-Stack Web Development**.
-- 🎯 Seeking opportunities in **Data Science**, **Machine Learning Engineering** and **Full-Stack Development**.
+<a href="https://www.linkedin.com/in/isiwara-didulani-b5304a3a0">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:isiwarakumarage6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/IsiwaraKumarage8">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=IsiwaraKumarage8&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS"/>
 
-### 🛠️ Tech Stack
+</div>
+
+<br/>
+
+## 🎓&nbsp; About Me
+
+<img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="340"/>
+
+- 🔭 **Data Science** undergraduate at the **University of Plymouth**
+- 💡 Passionate about combining **AI/ML** with **Full-Stack Web Development** to build real, intelligent products
+- 🎯 Currently seeking opportunities in **Data Science**, **Machine Learning Engineering**, and **Full-Stack Development**
+- 🌱 Always exploring new tools across the ML and web ecosystem
+- 📍 Based in **Sri Lanka** &nbsp;·&nbsp; she/her
+- ⚡ Fun fact: I enjoy turning messy datasets into clean, elegant products
+
+<br clear="right"/>
+
+## 🛠️&nbsp; Tech Stack
+
+<div align="center">
 
 **Languages**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,r,js,cs&theme=dark" />
+
+<br/><br/>
 
 **Frontend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+
+<br/><br/>
 
 **Backend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
+<br/><br/>
 
 **Databases & Tools**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,figma&theme=dark" />
+
+<br/><br/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 📊&nbsp; GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsiwaraKumarage8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiwaraKumarage8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsiwaraKumarage8&theme=radical&hide_border=true&background=0D1117&ring=EC4899&fire=6366F1&currStreakLabel=EC4899"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsiwaraKumarage8&theme=react-dark&hide_border=true&bg_color=0D1117&color=EC4899&line=6366F1&point=ffffff"/>
+
+</div>
+
+<br/>
+
+## 🏆&nbsp; Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=IsiwaraKumarage8&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=6"/>
+</div>
+
+<br/>
+
+## 🤝&nbsp; Let's Connect
+
+<div align="center">
+
+Always open to conversations about **Data Science**, **AI/ML**, and **collaborative projects**.
+
+<a href="https://www.linkedin.com/in/isiwara-didulani-b5304a3a0">
+  <img src="https://img.shields.io/badge/Let's%20Connect-EC4899?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=100&section=footer"/>
+
+</div>
