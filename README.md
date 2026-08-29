@@ -28,10 +28,8 @@
 
 - 🔭 **Data Science** undergraduate at the **University of Plymouth**
 - 💡 Passionate about combining **AI/ML** with **Full-Stack Web Development** to build real, intelligent products
-- 🎯 Currently seeking opportunities in **Data Science**, **Machine Learning Engineering**, and **Full-Stack Development**
+- 🎯 Currently seeking opportunities in **Data Science**, **Machine Learning Engineering** and **Full-Stack Development**
 - 🌱 Always exploring new tools across the ML and web ecosystem
-- 📍 Based in **Sri Lanka** &nbsp;·&nbsp; she/her
-- ⚡ Fun fact: I enjoy turning messy datasets into clean, elegant products
 
 <br clear="right"/>
 
