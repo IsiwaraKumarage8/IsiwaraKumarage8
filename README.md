@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Isiwara%20Kumarage&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20AI%2FML%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Isiwara%20Kumarage&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20Engineering%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+intelligent+systems+with+AI%2FML;Full-Stack+Developer+%7C+React+%26+Next.js;Data+Science+%40+University+of+Plymouth;Open+to+Data+%26+ML+Engineering+Roles&font=Fira+Code&center=true&width=600&height=45&color=EC4899&vCenter=true&size=22&pause=1800"/>
 
@@ -69,33 +69,6 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-</div>
-
-<br/>
-
-## 📊&nbsp; GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsiwaraKumarage8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiwaraKumarage8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsiwaraKumarage8&theme=radical&hide_border=true&background=0D1117&ring=EC4899&fire=6366F1&currStreakLabel=EC4899"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsiwaraKumarage8&theme=react-dark&hide_border=true&bg_color=0D1117&color=EC4899&line=6366F1&point=ffffff"/>
-
-</div>
-
-<br/>
-
-## 🏆&nbsp; Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=IsiwaraKumarage8&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=6"/>
 </div>
 
 <br/>
