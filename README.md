@@ -26,16 +26,16 @@
 
 - 🔭 **Data Science** undergraduate at the **University of Plymouth**
 - 💡 Interested in combining **AI/ML** with **Full-Stack Web Development** to build intelligent, real-world products
-- 🎯 Exploring opportunities in **Data Science**, **Machine Learning Engineering**, and **Full-Stack Development**
-- 🌱 Continuously learning and exploring new technologies across the AI, ML, and web ecosystem
+- 🎯 Exploring opportunities in **Data Science**, **Machine Learning Engineering** and **Full-Stack Development**
+- 🌱 Continuously learning and exploring new technologies across the AI, ML and web ecosystem
 
 <br/>
 
 # 🚀 Currently Exploring
 
-- 📊 **Advanced Data Analytics** — statistical modeling, hypothesis testing, ANOVA, and multivariate analysis
-- 🤖 **Large Language Models & RAG Architecture** — exploring vector databases, LangChain, LlamaIndex, and intelligent retrieval pipelines
-- 💬 **Natural Language Processing (NLP)** — sentiment analysis, text generation, and transformer-based architectures
+- 📊 **Advanced Data Analytics** — statistical modeling, hypothesis testing, ANOVA and multivariate analysis
+- 🤖 **Large Language Models & RAG Architecture** — exploring vector databases, LangChain, LlamaIndex and intelligent retrieval pipelines
+- 💬 **Natural Language Processing (NLP)** — sentiment analysis, text generation and transformer-based architectures
 - 👁️ **Human-Computer Interaction (HCI)** — designing intuitive and accessible UI/UX for AI-driven applications
 - ⚙️ **MLOps & Model Deployment** — containerizing machine learning models with Docker and serving them through FastAPI
 
@@ -112,8 +112,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiwaraKumarage8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
 </div>
 
 <br/>
@@ -122,7 +120,7 @@
 
 <div align="center">
 
-Always open to conversations about **Data Science**, **AI/ML**, **software development**, and **collaborative projects**.
+Always open to conversations about **Data Science**, **AI/ML**, **software development** and **collaborative projects**.
 
 <br/><br/>
 
