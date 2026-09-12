@@ -31,6 +31,16 @@
 
 <br clear="right"/>
 
+## 🚀&nbsp; Currently Exploring
+
+- 📊 **Advanced Data Analytics** — diving deeper into statistical modeling, ANOVA and multivariate analysis
+- 🤖 **Large Language Models & RAG Architecture** — integrating vector databases (LangChain / LlamaIndex) with intelligent retrieval pipelines
+- 💬 **Natural Language Processing (NLP)** — sentiment analysis, text generation and transformer-based architectures
+- 👁️ **Human-Computer Interaction (HCI)** — designing intuitive, accessible UI/UX patterns for AI-driven applications
+- ⚙️ **MLOps & Model Deployment** — containerizing machine learning models with Docker and serving them via FastAPI
+
+<br/>
+
 ## 🛠️&nbsp; Tech Stack
 
 <div align="center">
@@ -87,7 +97,7 @@
 
 <div align="center">
 
-Always open to conversations about **Data Science**, **AI/ML**, and **collaborative projects**.
+Always open to conversations about **Data Science**, **AI/ML** and **collaborative projects**.
 
 <a href="https://www.linkedin.com/in/isiwara-didulani-b5304a3a0">
   <img src="https://img.shields.io/badge/Let's%20Connect-EC4899?style=for-the-badge&logo=linkedin&logoColor=white"/>
