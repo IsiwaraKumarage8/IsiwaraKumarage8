@@ -9,9 +9,11 @@
 <a href="https://www.linkedin.com/in/isiwara-didulani-b5304a3a0">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:isiwarakumarage6@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/IsiwaraKumarage8">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -20,84 +22,109 @@
 
 <br/>
 
-## 🎓&nbsp; About Me
-
-<img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="340"/>
+# 🎓 About Me
 
 - 🔭 **Data Science** undergraduate at the **University of Plymouth**
-- 💡 Passionate about combining **AI/ML** with **Full-Stack Web Development** to build real, intelligent products
-- 🎯 Currently seeking opportunities in **Data Science**, **Machine Learning Engineering** and **Full-Stack Development**
-- 🌱 Always exploring new tools across the ML and web ecosystem
-
-<br clear="right"/>
-
-## 🚀&nbsp; Currently Exploring
-
-- 📊 **Advanced Data Analytics** — diving deeper into statistical modeling, ANOVA and multivariate analysis
-- 🤖 **Large Language Models & RAG Architecture** — integrating vector databases (LangChain / LlamaIndex) with intelligent retrieval pipelines
-- 💬 **Natural Language Processing (NLP)** — sentiment analysis, text generation and transformer-based architectures
-- 👁️ **Human-Computer Interaction (HCI)** — designing intuitive, accessible UI/UX patterns for AI-driven applications
-- ⚙️ **MLOps & Model Deployment** — containerizing machine learning models with Docker and serving them via FastAPI
+- 💡 Interested in combining **AI/ML** with **Full-Stack Web Development** to build intelligent, real-world products
+- 🎯 Exploring opportunities in **Data Science**, **Machine Learning Engineering**, and **Full-Stack Development**
+- 🌱 Continuously learning and exploring new technologies across the AI, ML, and web ecosystem
 
 <br/>
 
-## 🛠️&nbsp; Tech Stack
+# 🚀 Currently Exploring
+
+- 📊 **Advanced Data Analytics** — statistical modeling, hypothesis testing, ANOVA, and multivariate analysis
+- 🤖 **Large Language Models & RAG Architecture** — exploring vector databases, LangChain, LlamaIndex, and intelligent retrieval pipelines
+- 💬 **Natural Language Processing (NLP)** — sentiment analysis, text generation, and transformer-based architectures
+- 👁️ **Human-Computer Interaction (HCI)** — designing intuitive and accessible UI/UX for AI-driven applications
+- ⚙️ **MLOps & Model Deployment** — containerizing machine learning models with Docker and serving them through FastAPI
+
+<br/>
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,r,js,cs&theme=dark" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,r,js,cs&theme=dark"/>
 
 <br/><br/>
 
-**Backend**
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
-
-<br/><br/>
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
 
 <br/><br/>
 
-**AI / ML**
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
+
+<br/><br/>
+
+### 🗄️ Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,figma&theme=dark"/>
+
+<br/><br/>
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+### 🧠 LLM & AI Tools
+
+<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+
+<br/><br/>
+
+### 📈 Data Science & Scientific Computing
+
+<img src="https://img.shields.io/badge/GNU%20Octave-0790C0?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## 📊&nbsp; GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IsiwaraKumarage8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=IsiwaraKumarage8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsiwaraKumarage8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsiwaraKumarage8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiwaraKumarage8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
 <br/>
 
-## 🤝&nbsp; Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
-Always open to conversations about **Data Science**, **AI/ML** and **collaborative projects**.
+Always open to conversations about **Data Science**, **AI/ML**, **software development**, and **collaborative projects**.
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/isiwara-didulani-b5304a3a0">
   <img src="https://img.shields.io/badge/Let's%20Connect-EC4899?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -105,6 +132,6 @@ Always open to conversations about **Data Science**, **AI/ML** and **collaborati
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer"/>
 
 </div>
