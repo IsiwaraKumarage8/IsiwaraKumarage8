@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IsiwaraKumarage8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IsiwaraKumarage8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <br/>
 
